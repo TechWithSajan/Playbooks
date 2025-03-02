@@ -1,1 +1,3 @@
-# Playbooks
+# playbooks
+
+ansible-playbook filename.yml
